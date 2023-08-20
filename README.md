@@ -8,9 +8,13 @@ Research Question: Which borough of London has seen the greatest average increas
 Description: Automatic generation of data evaluation (ydata-profiling)
 <br>
 <br>
-3. API Mini Project<br>
+3. Case Study: Country Club<br>
+Description: SQL queries using PHPMyAdmin, Python and SQLite
+<br>
+<br>
+4. API Mini Project<br>
 Description: API data acquisition and data wrangling
 <br>
 <br>
-4. Guided Capstone<br>
+5. Guided Capstone<br>
 Research Question: Project a ticket price increase for a ski resort to subsidize investments in infrastructure. 
