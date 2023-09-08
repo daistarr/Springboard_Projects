@@ -19,6 +19,11 @@ Description: focus on frequentist inference, covering Pythonic implementation of
 <b>5. API Mini Project</b><br>
 Description: API data acquisition and data wrangling
 <br>
+<b>6. Integrating Apps</b><br>
+Description: API data acquisition and data wrangling
+<br>
+Description: Determine if there's a significant difference in app ratings between the Apple Store and Google Play to decide which to integrate into a custom OS.
+<br>
 <br>
 <b>6. Guided Capstone</b><br>
 Research Question: Project a ticket price increase for a ski resort to subsidize investments in infrastructure. 
