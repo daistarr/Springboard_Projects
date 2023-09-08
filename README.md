@@ -19,6 +19,7 @@ Description: focus on frequentist inference, covering Pythonic implementation of
 <b>5. API Mini Project</b><br>
 Description: API data acquisition and data wrangling
 <br>
+<br>
 <b>6. Integrating Apps</b><br>
 Description: API data acquisition and data wrangling
 <br>
