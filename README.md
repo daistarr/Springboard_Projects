@@ -20,12 +20,16 @@ Description: focus on frequentist inference, covering Pythonic implementation of
 Description: API data acquisition and data wrangling
 <br>
 <br>
-<b>6. Integrating Apps</b><br>
+<b>6. Case Study: Integrating Apps</b><br>
 Description: Determine if there's a significant difference in app ratings between the Apple Store and Google Play to decide which to integrate into a custom OS.
 <br>
 <br>
-<b>7. Linear Regression</b><br>
+<b>7. Case Study: Linear Regression</b><br>
 Description: Explore the relationship between red wine properties via linear regression.
+<br>
+<br>
+<b>8. Case Study: Logistic Regression</b><br>
+Description: Use machine learning to help doctors asses whether a paitent has heart disease or not.
 <br>
 <br>
 <b>8. Guided Capstone</b><br>
