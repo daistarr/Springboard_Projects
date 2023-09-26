@@ -36,5 +36,5 @@ Description: Uses machine learning to help doctors asses whether a paitent has h
 Description: Employs Decision Trees and the Random Forest algorithm to determine whether to purchase coffee beans from specific farmers
 <br>
 <br>
-<b>8. Guided Capstone</b><br>
+<b>10. Guided Capstone</b><br>
 Research Question: Project a ticket price increase for a ski resort to subsidize investments in infrastructure. 
