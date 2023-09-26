@@ -13,7 +13,7 @@ Description: SQL queries using PHPMyAdmin, Python and SQLite
 <br>
 <br>
 <b>4. Case Study: Frequentist</b><br>
-Description: focus on frequentist inference, covering Pythonic implementation of concepts like z-statistic, t-statistic, Central Limit Theorem, population parameter estimation, sampling distribution, confidence intervals, p-values, and hypothesis testing, with both theoretical understanding and real-world application.
+Description: Focus on frequentist inference, covering Pythonic implementation of concepts like z-statistic, t-statistic, Central Limit Theorem, population parameter estimation, sampling distribution, confidence intervals, p-values, and hypothesis testing, with both theoretical understanding and real-world application.
 <br>
 <br>
 <b>5. API Mini Project</b><br>
@@ -21,15 +21,19 @@ Description: API data acquisition and data wrangling
 <br>
 <br>
 <b>6. Case Study: Integrating Apps</b><br>
-Description: Determine if there's a significant difference in app ratings between the Apple Store and Google Play to decide which to integrate into a custom OS.
+Description: Determines if there's a significant difference in app ratings between the Apple Store and Google Play to decide which to integrate into a custom OS.
 <br>
 <br>
 <b>7. Case Study: Linear Regression</b><br>
-Description: Explore the relationship between red wine properties via linear regression.
+Description: Explores the relationship between red wine properties via linear regression.
 <br>
 <br>
 <b>8. Case Study: Logistic Regression</b><br>
-Description: Use machine learning to help doctors asses whether a paitent has heart disease or not.
+Description: Uses machine learning to help doctors asses whether a paitent has heart disease or not.
+<br>
+<br>
+<b>9. Case Study: RR Coffee</b><br>
+Description: Employs Decision Trees and the Random Forest algorithm to determine whether to purchase coffee beans from specific farmers
 <br>
 <br>
 <b>8. Guided Capstone</b><br>
