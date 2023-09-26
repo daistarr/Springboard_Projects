@@ -33,8 +33,12 @@ Description: Uses machine learning to help doctors asses whether a paitent has h
 <br>
 <br>
 <b>9. Case Study: RR Coffee</b><br>
-Description: Employs Decision Trees and the Random Forest algorithm to determine whether to purchase coffee beans from specific farmers
+Description: Employs Decision Trees and the Random Forest algorithm to determine whether to purchase coffee beans from specific farmers.
 <br>
 <br>
-<b>10. Guided Capstone</b><br>
+<b>10. Case Study: COVID</b><br>
+Description: Use Random Forest and logistic regression to understand the scope of the Coronavirus using data from December and January of 2020.
+<br>
+<br>
+<b>11. Guided Capstone</b><br>
 Research Question: Project a ticket price increase for a ski resort to subsidize investments in infrastructure. 
