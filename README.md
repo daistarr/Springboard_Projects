@@ -40,5 +40,9 @@ Description: Employs Decision Trees and the Random Forest algorithm to determine
 Description: Use Random Forest and logistic regression to understand the scope of the Coronavirus using data from December and January of 2020.
 <br>
 <br>
-<b>11. Guided Capstone</b><br>
+<b>11. Case Study: Titanic</b><br>
+Description: Employs gradient boosting to enhance predictions by leveraging residual information (regression and classification problems) using the Titanic dataset.
+<br>
+<br>
+<b>12. Guided Capstone</b><br>
 Research Question: Project a ticket price increase for a ski resort to subsidize investments in infrastructure. 
