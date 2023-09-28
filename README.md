@@ -44,5 +44,9 @@ Description: Use Random Forest and logistic regression to understand the scope o
 Description: Employs gradient boosting to enhance predictions by leveraging residual information (regression and classification problems) using the Titanic dataset.
 <br>
 <br>
-<b>12. Guided Capstone</b><br>
+<b>12. Case Study: Euclidian & Manhattan Distances</b><br>
+Description: Applies these two distance metrics and visualize their distances on the same dataset
+<br>
+<br>
+<b>13. Guided Capstone</b><br>
 Research Question: Project a ticket price increase for a ski resort to subsidize investments in infrastructure. 
