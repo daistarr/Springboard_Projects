@@ -48,5 +48,9 @@ Description: Employs gradient boosting to enhance predictions by leveraging resi
 Description: Applies these two distance metrics and visualize their distances on the same dataset
 <br>
 <br>
-<b>13. Guided Capstone</b><br>
+<b>13. Case Study: Cosine Similarity</b><br>
+Description: Explores the utility of cosine similarity for record matching.
+<br>
+<br>
+<b>14. Guided Capstone</b><br>
 Research Question: Project a ticket price increase for a ski resort to subsidize investments in infrastructure. 
