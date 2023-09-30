@@ -52,5 +52,9 @@ Description: Applies these two distance metrics and visualize their distances on
 Description: Explores the utility of cosine similarity for record matching.
 <br>
 <br>
-<b>14. Guided Capstone</b><br>
+<b>14. Case Study: Clustering</b><br>
+Description: Implements the K-Means clustering algorithm, find the value for K using the Elbow method, the Silhouette method, and the Gap statistic, and visualize the clusters with Principal Components Analysis (PCA).
+<br>
+<br>
+<b>15. Guided Capstone</b><br>
 Research Question: Project a ticket price increase for a ski resort to subsidize investments in infrastructure. 
