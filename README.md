@@ -56,5 +56,9 @@ Description: Explores the utility of cosine similarity for record matching.
 Description: Implements the K-Means clustering algorithm, find the value for K using the Elbow method, the Silhouette method, and the Gap statistic, and visualize the clusters with Principal Components Analysis (PCA).
 <br>
 <br>
-<b>15. Guided Capstone</b><br>
+<b>15. Case Study: Grid Search KNN</b><br>
+Description: Identifies the optimal number of neighbors to use in the K-nearest neighbor model.
+<br>
+<br>
+<b>16. Guided Capstone</b><br>
 Research Question: Project a ticket price increase for a ski resort to subsidize investments in infrastructure. 
