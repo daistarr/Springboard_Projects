@@ -60,5 +60,9 @@ Description: Implements the K-Means clustering algorithm, find the value for K u
 Description: Identifies the optimal number of neighbors to use in the K-nearest neighbor model.
 <br>
 <br>
-<b>16. Guided Capstone</b><br>
+<b>16. Case Study: Bayesian</b><br>
+Description: Uses Bayesian methods of probabilities to select the optimal hyperparameters for an algorithm.
+<br>
+<br>
+<b>17. Guided Capstone</b><br>
 Research Question: Project a ticket price increase for a ski resort to subsidize investments in infrastructure. 
